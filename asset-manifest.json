@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/me-weather/static/css/main.513bbbab.css",
+    "main.js": "/me-weather/static/js/main.cdd02c43.js",
+    "static/media/bg.jpg": "/me-weather/static/media/bg.39b8d08742d363cab98e.jpg",
+    "index.html": "/me-weather/index.html",
+    "main.513bbbab.css.map": "/me-weather/static/css/main.513bbbab.css.map",
+    "main.cdd02c43.js.map": "/me-weather/static/js/main.cdd02c43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.513bbbab.css",
+    "static/js/main.cdd02c43.js"
+  ]
+}
